@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>AI News Radar</title></head>
+  <body>
+    <outline text="AI News">
+      <outline text="TechCrunch AI" type="rss" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/category/artificial-intelligence/"/>
+      <outline text="VentureBeat AI" type="rss" xmlUrl="https://venturebeat.com/category/ai/feed/" htmlUrl="https://venturebeat.com/category/ai/"/>
+      <outline text="ArXiv CS.AI" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://arxiv.org/list/cs.AI/recent"/>
+      <outline text="ArXiv CS.LG" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="https://arxiv.org/list/cs.LG/recent"/>
+      <outline text="MIT Tech Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
+    </outline>
+    <outline text="AI Company Blogs">
+      <outline text="OpenAI Blog" type="rss" xmlUrl="https://openai.com/blog/rss/" htmlUrl="https://openai.com/blog/"/>
+      <outline text="Google AI" type="rss" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/"/>
+      <outline text="DeepMind" type="rss" xmlUrl="https://deepmind.com/blog/feed/basic/" htmlUrl="https://deepmind.com/blog/"/>
+      <outline text="Anthropic" type="rss" xmlUrl="https://www.anthropic.com/news/rss" htmlUrl="https://www.anthropic.com/news"/>
+      <outline text="Meta AI" type="rss" xmlUrl="https://ai.meta.com/blog/rss/" htmlUrl="https://ai.meta.com/blog/"/>
+      <outline text="Microsoft AI" type="rss" xmlUrl="https://blogs.microsoft.com/ai/feed/" htmlUrl="https://blogs.microsoft.com/ai/"/>
+      <outline text="Stability AI" type="rss" xmlUrl="https://stability.ai/rss" htmlUrl="https://stability.ai/news"/>
+    </outline>
+    <outline text="Open Source AI">
+       <outline text="Hugging Face" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
+       <outline text="Lama.cpp" type="rss" xmlUrl="https://github.com/ggerganov/llama.cpp/releases.atom" htmlUrl="https://github.com/ggerganov/llama.cpp/releases"/>
+       <outline text="Ollama" type="rss" xmlUrl="https://github.com/ollama/ollama/releases.atom" htmlUrl="https://github.com/ollama/ollama/releases"/>
+    </outline>
+    <outline text="Reddit Communities">
+       <outline text="r/MachineLearning" type="rss" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" htmlUrl="https://www.reddit.com/r/MachineLearning/"/>
+       <outline text="r/artificial" type="rss" xmlUrl="https://www.reddit.com/r/artificial/.rss" htmlUrl="https://www.reddit.com/r/artificial/"/>
+       <outline text="r/LocalLLAMA" type="rss" xmlUrl="https://www.reddit.com/r/LocalLLAMA/.rss" htmlUrl="https://www.reddit.com/r/LocalLLAMA/"/>
+       <outline text="r/OpenAI" type="rss" xmlUrl="https://www.reddit.com/r/OpenAI/.rss" htmlUrl="https://www.reddit.com/r/OpenAI/"/>
+       <outline text="r/ChatGPT" type="rss" xmlUrl="https://www.reddit.com/r/ChatGPT/.rss" htmlUrl="https://www.reddit.com/r/ChatGPT/"/>
+       <outline text="r/StableDiffusion" type="rss" xmlUrl="https://www.reddit.com/r/StableDiffusion/.rss" htmlUrl="https://www.reddit.com/r/StableDiffusion/"/>
+    </outline>
+    <outline text="Chinese AI Media">
+       <outline text="עԽעԽ" type="rss" xmlUrl="https://www.qbitai.com/feed" htmlUrl="https://www.qbitai.com/"/>
+       <outline text="丩ᴺᵹ" type="rss" xmlUrl="https://jiqizhixin.com/rss" htmlUrl="https://jiqizhixin.com/"/>
+       <outline text="InfoQQ AI" type="rss" xmlUrl="https://www.infoq.cn/feed" htmlUrl="https://www.infoq.cn/topic/AI"/>
+    </outline>
+    <outline text="AI Newsletters">
+       <outline text="The Rundown AI" type="rss" xmlUrl="https://www.therundown.ai/feed" htmlUrl="https://www.therundown.ai/"/>
+       <outline text="The Batch" type="rss" xmlUrl="https://www.deeplearning.ai/the-batch/feed/" htmlUrl="https://www.deeplearning.ai/the-batch/"/>
+       <outline text="Import AI" type="rss" xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com/"/>
+    </outline>
+    <outline text="AI Research">
+       <outline text="Papers with Code" type="rss" xmlUrl="https://paperswithcode.com/feed" htmlUrl="https://paperswithcode.com/"/>
+       <outline text="ArXxiv CV" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.CV" htmlUrl="https://arxiv.org/list/cs.CV/recent"/>
+       <outline text="ArXxiv NL@" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.CL" htmlUrl="https://arxiv.org/list/cs.CL/recent"/>
+       <outline text="ArXxiv Robotics" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.RO" htmlUrl="https://arxiv.org/list/cs.RO/recent"/>
+    </outline>
+  </body>
+</opml>
