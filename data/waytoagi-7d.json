@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T16:35:23.815060Z",
+  "generated_at": "2026-05-13T16:39:14.512054Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-13",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-05-13",
@@ -16,9 +16,14 @@
       "date": "2026-05-13",
       "title": "本篇文章按照Anthropic CFO Krishna Rao在《Invest Like The Best》中的分享拆成 8 个判断：算力为什么是命门，指数增长怎么管理，三类芯片怎么被调度，前沿模型为什么能带来收入跳变，Claude Code 怎样改变组织，平台和应用边界如何取舍，定价和毛利怎么重新计算，以及 Anthropic 自己怎么在财务团队里使用 Claude。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "最近Agent 的长期记忆十分火爆，每个人都在聊记忆系统。但多半是一堆名词砸过来：向量数据库、RAG、上下文窗口、压缩、情景记忆……作者这篇文章从基础开始讲，不堆名词！尽量带大家读懂！！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-05-13",
@@ -28,6 +33,11 @@
     {
       "date": "2026-05-13",
       "title": "本篇文章按照Anthropic CFO Krishna Rao在《Invest Like The Best》中的分享拆成 8 个判断：算力为什么是命门，指数增长怎么管理，三类芯片怎么被调度，前沿模型为什么能带来收入跳变，Claude Code 怎样改变组织，平台和应用边界如何取舍，定价和毛利怎么重新计算，以及 Anthropic 自己怎么在财务团队里使用 Claude。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "最近Agent 的长期记忆十分火爆，每个人都在聊记忆系统。但多半是一堆名词砸过来：向量数据库、RAG、上下文窗口、压缩、情景记忆……作者这篇文章从基础开始讲，不堆名词！尽量带大家读懂！！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
