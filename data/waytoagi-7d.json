@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-10-07T18:15:17.753319Z",
+  "generated_at": "2026-10-07T23:57:50.849862Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-07",
-  "count_today": 7,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-10-07",
       "title": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "本周AI音乐周刊带来重磅版权新规与司法判例，同步还收录了Modulate融资、Suno语音配乐新功能、Mirelo音效插件等产品商业动态。更有6篇前沿论文，涵盖开源音乐框架、舞蹈驱动音乐生成、音乐自动评估等方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -43,11 +48,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 7,
+  "count_7d": 8,
   "updates_7d": [
     {
       "date": "2026-10-07",
       "title": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "本周AI音乐周刊带来重磅版权新规与司法判例，同步还收录了Modulate融资、Suno语音配乐新功能、Mirelo音效插件等产品商业动态。更有6篇前沿论文，涵盖开源音乐框架、舞蹈驱动音乐生成、音乐自动评估等方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
